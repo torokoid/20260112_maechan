@@ -177,7 +177,7 @@ p.note { display: none; }
 <h2><span class="yellow">ウナギというよりはドジョウに近いサイズ、田んぼで取れた天然物です</span></h2>
 <a href="20260112_003.JPG" target="_blank"><img src="20260112_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">前夜の星空は満天の星空</span></h2>
+<h2><span class="yellow">前夜の夜空は満天の星空</span></h2>
 <a href="20260112_004.JPG" target="_blank"><img src="20260112_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">11日朝の曇り空の隙間からお月さまが見えました</span></h2>
@@ -241,7 +241,7 @@ p.note { display: none; }
 <a href="20260112_036.JPG" target="_blank"><img src="20260112_036.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260112_037.JPG" target="_blank"><img src="20260112_037.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">オレンジも消えてくれて行きました</span></h2>
+<h2><span class="yellow">オレンジも消えて暮れて行きました</span></h2>
 <a href="20260112_038.JPG" target="_blank"><img src="20260112_038.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">日没後にコンビニで買い物、国道のオレンジ街灯が鮮やか</span></h2>
